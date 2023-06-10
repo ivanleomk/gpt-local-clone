@@ -8,6 +8,9 @@ AGENT: A language model is a statistical model that describes the probability of
 Here are the most recent chat messages between you and the user for reference
 {chat_log}
 
+Here is some other contextual information which might be helpful for you
+{context}
+
 Question: {prompt}
 
 Please respond in the following format
